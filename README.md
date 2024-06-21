@@ -6,8 +6,12 @@ Course listing application made with React and Firebase (for authentication and 
 
 1. Install dependencies
 
-npm install
+  ```
+  npm install
+  ```
 
 2. Spin up the development server
 
-npm run dev
+  ```
+  npm run dev
+  ```
